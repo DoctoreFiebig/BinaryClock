@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  Binär-Uhr
-//
-//  Created by Andre Fiebig on 05.08.16.
-//  Copyright © 2016 Andre Fiebig. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
